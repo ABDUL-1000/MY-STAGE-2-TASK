@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arbutus</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/calistoga</item>
+        <item>@font/diplomata</item>
+        <item>@font/goblin_one</item>
+        <item>@font/limelight</item>
+    </array>
+</resources>

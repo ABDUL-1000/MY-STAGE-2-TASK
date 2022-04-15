@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="abdullatif_abdulkarim">ABDULLATIF ABDULKARIM</string>
+    <string name="my_name_is_abdullatif_abdulkarim_from_zaria_kaduna_state_of_nigeria_i_was_born_in_08_02_1998_currently_a_students_of_abu_zaria">MY NAME IS ABDULLATIF ABDULKARIM, FROM ZARIA, KADUNA STATE OF NIGERIA, I WAS BORN IN 08/02/1998. CURRENTLY A STUDENTS OF ABU ZARIA.</string>
+    <string name="andriod_track_beginner_level">ANDRIOD TRACK, BEGINNER LEVEL</string>
+    <string name="raandom_text">RAANDOM TEXT</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
